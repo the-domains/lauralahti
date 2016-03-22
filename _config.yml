@@ -1,7 +1,7 @@
 name: LauraLahti
 favicon: null
-layout_spectrum: 0.04223803151398897
-typography_spectrum: 0.5692618361208588
+layout_spectrum: 1
+typography_spectrum: 0.60178
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7629884816706181
-  lightness: 0.7802957184612751
-  saturation: 0.8151007348205894
-  rhythmicContrast: 0.3593838745728135
+    - '#ffffff'
+    - '#0d0d0d'
+    - '#aecbeb'
+    - '#897d6c'
+    - '#f89aa8'
+  brandStrength: 0.8125
+  lightness: 0.875
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
