@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LauraLahti]]></title>
-        <description><![CDATA[LauraLahti]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Creative Direction and Design]]></title>
+        <description><![CDATA[Creative Direction and Design]]></description>
+        <link>https://thegrid.ai/lauralahti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 05:24:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 23:34:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lauralahti/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c11943f-bccc-43e0-a146-009e36fae4a8.png">]]></description>
+            <link>https://thegrid.ai/lauralahti/d2cfd92f-3568-4982-b799-211e445f92ba/index.html</link>
+            <guid isPermaLink="false">d2cfd92f-3568-4982-b799-211e445f92ba</guid>
+            <pubDate>Tue, 22 Mar 2016 23:33:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>In the near future, having the computer screen contained to an area of the glasses, like a bifocal, allows for the user to contain their text messages, emails and such, to a confined area that they can either choose to ignore or actively look into.</p>]]></description>
-            <link>undefinedin-the-near-future-having-the-computer-screen-contained-to/index.html</link>
+            <link>https://thegrid.ai/lauralahti/in-the-near-future-having-the-computer-screen-contained-to/index.html</link>
             <guid isPermaLink="false">5279cc30-ade5-485a-9404-739010246e36</guid>
             <pubDate>Tue, 15 Mar 2016 05:24:43 GMT</pubDate>
         </item>
